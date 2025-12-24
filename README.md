@@ -82,7 +82,6 @@ This demonstrates an **end-to-end transformation** from messy clinical text into
 
 1. Clone the repository  
 2. Install dependencies:
-   ```bash
    pip install -r requirements.txt
 3. Create an environment file:
    cp .env.example .env
