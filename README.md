@@ -111,20 +111,10 @@ To run this project locally:
 1. Clone the repository
 2. Install dependencies:
 pip install pandas openai
-
-csharp
-Copy code
 3. Create a `.env` file in the project root and add:
 OPENAI_API_KEY=your_api_key_here
-
-arduino
-Copy code
 4. Open and run:
 tool_calling_raw.ipynb
-
-yaml
-Copy code
-
 The `.env` file is excluded from version control.
 
 ---
